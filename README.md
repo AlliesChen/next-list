@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This app is basically built with [the tutorial by Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw), while I choose to use TypeScript.
+
+The Next.js icon is by [Devicon](https://devicon.dev/)
+
 ## Getting Started
 
 First, run the development server:
